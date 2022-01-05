@@ -8,7 +8,7 @@
 This site is all about a sunglasses selling store which name is Alpha Sunglasses Yard. From this site a visitor can order many stylish sunglasses in a cheap rate with best quality.
 <p>
 
-#### To visit the client side: [Click here](https://alpha-sunglasses-yard.web.app/).
+#### To visit the client side: [Click here](https://sunglasses-bd.netlify.app/).
 
 or,
 
