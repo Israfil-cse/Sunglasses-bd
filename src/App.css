@@ -1,90 +1,109 @@
 .regular-btn {
-  background-color: #5b54f1;
-  color: #fff;
-  padding: 0px 30px;
+    background-color: #5b54f1;
+    color: #fff;
+    padding: 0px 30px;
 }
 
 .banner-bg {
-  background-color: #5c54f113;
+    background-color: #5c54f113;
 }
 
 .purple-bg {
-  background-color: #5b54f1;
+    background-color: #5b54f1;
 }
+
 .dark-purple-bg {
-  background-color: #4941eb;
+    background-color: #4941eb;
 }
+
 .purple-text {
-  color: #5b54f1;
+    color: #5b54f1;
 }
 
 .nav-items a {
-  text-decoration: none;
-  color: white;
+    text-decoration: none;
+    color: white;
 }
 
 .nav-items a:hover {
-  color: gray
+    color: gray
 }
 
 .nav-items a {
-  color: white;
+    color: white;
 }
 
 .menu-list li {
-  list-style: none;
-  margin-top: 10px;
-  font-size: 18px;
+    list-style: none;
+    margin-top: 10px;
+    font-size: 18px;
 }
 
 
 .hashLink {
-  color: white !important;
+    color: white !important;
 }
 
 .hashLink:hover {
-  color: gray !important;
+    color: gray !important;
 }
-.banner{
-  height: 500px;
-  background-color: #F3F2FE;
-  margin-top: 100px;
+
+.banner {
+    height: 500px;
+    background-color: #F3F2FE;
+    margin-top: 100px;
 }
-.button-bannar{
-  background-color: black;
-  color:white;
-  border:none;
-  padding: 10px 20px;
-  border-radius: 10px;
+
+.button-bannar {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
 
 }
-.carousel-inner h2{
-  color: rgb(92, 43, 226);
+
+.carousel-inner h2 {
+    color: rgb(92, 43, 226);
 }
-.carousel-indicators li{
-  background-color: #fabc0d;
-  /* margin-top: 500px !important; */
+
+.carousel-indicators li {
+    background-color: #fabc0d;
+    /* margin-top: 500px !important; */
 }
-.content{
-  height: 350px;
-  margin-top: 80px;
-  padding-bottom: 50px;
+
+.content {
+    height: 350px;
+    margin-top: 80px;
+    padding-bottom: 50px;
 }
+
 .carousel-indicators {
-  position: absolute;
-  right: 0;
-  bottom: -50px;
-  left: 0;
-  z-index: 15;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: center;
-  justify-content: center;
-  padding-left: 0;
-  margin-right: 15%;
-  margin-left: 15%;
-  list-style: none;
+    position: absolute;
+    right: 0;
+    bottom: -50px;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
 }
-.img-width{
-  width: 700px;
+
+.img-width {
+    width: 700px;
+}
+
+
+/* nav responsive */
+
+
+@media screen and (max-width: 600px) {
+    .banner {
+      margin-top: 15px;
+    }
 }
